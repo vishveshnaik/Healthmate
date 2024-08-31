@@ -1,8 +1,8 @@
-# Health Clinic Android App
+# Healthmate Android App
 
 ## Overview
 
-This repository contains the source code for a Health Clinic Android App built with Kotlin, Jetpack Compose, Hilt, and Dagger. The app is designed to facilitate various health-related tasks, such as scheduling appointments, viewing medical records, and accessing health information.
+This repository contains the source code for a Healthmate Android App built with Kotlin, Jetpack Compose, Hilt, and Dagger. The app is designed to facilitate various health-related tasks, such as scheduling appointments, viewing medical records, and accessing health information.
 
 ## Features
 
@@ -36,7 +36,3 @@ This repository contains the source code for a Health Clinic Android App built w
 
 3. Build and run the app on an Android emulator or physical device.
 
-
-Thank you for your interest in our Health Clinic Android App project!
-
-Happy coding! 😊🚑📱
